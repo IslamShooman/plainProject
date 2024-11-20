@@ -1,0 +1,6 @@
+[submodule "resources/blades/shared"]
+	path = resources/blades/shared
+	url = https://github.com/IslamShooman/sharingBaldes.git
+[submodule "resources/views/shared"]
+	path = resources/views/shared
+	url = https://github.com/IslamShooman/sharingBaldes.git
